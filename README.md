@@ -1,0 +1,1 @@
+Projek dalam data analyst untuk melakukan Analisa Sentimen terhadap Review pembelian barang Powerbank di Marketplace. Data disini berjumlah 3003 dan berbentuk xlsx. Data berisi "Username", "Bintang", dan "Review". Dilakukan Labelling untuk review dari setiap bintang review. Bintang 1-3 berlabel "0" dan 4-5 berlabel "1".
